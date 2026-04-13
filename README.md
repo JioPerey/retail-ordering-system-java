@@ -161,8 +161,8 @@ Developed by: Jio Perey
 
 ## Author
 
-Jio Perey
-April 13, 2026
+- Jio Perey
+- April 13, 2026
 
 ## License
 
